@@ -1,6 +1,6 @@
 # Hi, I'm Sashank Ghandikota 👋
 
-I'm a **Computer Engineering** graduate from **CVR College of Engineering, Hyderabad**, with a passion for **Web Development**. I am excited about the endless possibilities technology offers to make a lasting impact on the world.
+I'm a **Computer Engineering** graduate from **CVR College of Engineering, Hyderabad**, with a passion for **Web Development**.
 
 ## 🔭 I’m currently working on...
 - Building **full-stack web applications** using the **MERN stack** (MongoDB, Express, React, Node.js).
